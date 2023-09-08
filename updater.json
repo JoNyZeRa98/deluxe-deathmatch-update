@@ -1,4 +1,4 @@
 {
-    "version": "1.3.1",
-    "changelog": "Fixed bug where players would tp to same coords and added heading to Config.TeleportCoords"
+    "version": "1.3.2",
+    "changelog": "Fixed UI Join stuck bug and various optimization"
 }
