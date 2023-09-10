@@ -1,4 +1,4 @@
 {
-    "version": "1.3.2",
-    "changelog": "Fixed UI Join stuck bug and various optimization"
+    "version": "1.3.3",
+    "changelog": "Fixed Leaderboard fetching system and added Config.InteractRange"
 }
